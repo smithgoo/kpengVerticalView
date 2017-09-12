@@ -178,7 +178,7 @@
 
 - (void)setupUI {
     
-    _titleLab =[[UILabel alloc] initWithFrame:CGRectMake(TEMPWIDTH, (_cellRowH-LABRLH)/2, self.width-TEMPWIDTH, LABRLH)];
+    _titleLab =[[UILabel alloc] initWithFrame:CGRectMake(TEMPWIDTH, (_cellRowH-LABRLH)/2, self.bounds.size.width-TEMPWIDTH, LABRLH)];
      _titleLab.font =[UIFont systemFontOfSize:14];
     [self addSubview:_titleLab];
     
