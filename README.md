@@ -12,5 +12,5 @@
     NSLog(@"----%@",callbackInfo);
     
     };
-    
-    [id]: url/to/image  "https://github.com/smithgoo/kpengVerticalView/blob/master/snv.gif"
+    ![Alt text](/blob/master/snv.gif)
+ 
