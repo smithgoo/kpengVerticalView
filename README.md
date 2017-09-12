@@ -13,5 +13,5 @@
     
     };
    ![](snv.gif)
-    ![这里写图片描述](https://github.com/smithgoo/kpengVerticalView/blob/master/snv.gif)
+   
  
