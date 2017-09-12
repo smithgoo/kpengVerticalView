@@ -12,3 +12,6 @@
     NSLog(@"----%@",callbackInfo);
     
     };
+   ![](snv.gif)
+   
+ 
