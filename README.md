@@ -13,5 +13,4 @@
     
     };
     
-    
-    [哈哈](https://github.com/smithgoo/kpengVerticalView/blob/master/snv.gif)
+    [id]: url/to/image  "https://github.com/smithgoo/kpengVerticalView/blob/master/snv.gif"
