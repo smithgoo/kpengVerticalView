@@ -10,7 +10,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "kpengVerticalView"
-  s.version      = "0.0.1"
+  s.version      = "0.0.3"
   s.summary      = "类似网易严选的竖着选择的列表."
   s.description      = <<-DESC
                        It is a marquee view used on iOS, which implement by Objective-C.
@@ -31,7 +31,7 @@ Pod::Spec.new do |s|
   # s.resources = 'Assets'
 
   # s.ios.exclude_files = 'Classes/osx'
-  # s.osx.exclude_files = 'Classes/ios'  
+  # s.osx.exclude_files = 'Classes/ios'
   # s.public_header_files = 'Classes/**/*.h'
   s.frameworks = 'Foundation', 'CoreGraphics', 'UIKit'
 
