@@ -87,7 +87,7 @@
     
     
     if (_selectedInfoCallBack) {
-        _selectedInfoCallBack([_titleArr objectAtIndex:indexPath.row]);
+        _selectedInfoCallBack([_titleArr objectAtIndex:indexPath.row],indexPath.row);
     }
 
 

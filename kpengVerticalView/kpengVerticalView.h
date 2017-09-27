@@ -23,7 +23,7 @@
 /**
 点击之后 block回调
  */
-@property (nonatomic,copy) void(^selectedInfoCallBack)(id callbackInfo);
+@property (nonatomic,copy) void(^selectedInfoCallBack)(id callbackInfo,NSInteger row);
 
 /**
  tableviewcell高度
